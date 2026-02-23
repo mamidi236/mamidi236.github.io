@@ -47,7 +47,7 @@ body {
 .right-panel {
     width: 60%;
     position: relative;
-    background-image: url('bg-image.jpg'), linear-gradient(to right, #111, #333);
+    background-image: url('./bg-image.jpg'), linear-gradient(to right, #111, #333);
     background-size: 110% auto;
     background-position: center 85%;
     /* Shifted down to crop gap above head */
